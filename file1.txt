@@ -1,0 +1,2 @@
+--------Hello People ---------
+	Having a SCM with GIT training
